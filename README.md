@@ -1,4 +1,5 @@
-image
+![image](https://github.com/HadarguetaTur/Guess-My-Number/assets/106341739/3e1e4195-6a8b-4e0c-9c42-02c48ac68e83)
+
 Guess My Number - DOM Implementation Welcome to the "Guess My Number" game, a fun and interactive project that showcases the power of JavaScript's Document Object Model (DOM) manipulation. In this game, players are challenged to guess a secret number between 1 and 20. The project highlights various features and offers a visual DOM map to help you understand how DOM elements are interconnected.
 
 Features Here are the key features of the "Guess My Number" game:
@@ -23,7 +24,8 @@ DOM Manipulation: The game relies on JavaScript's DOM manipulation to dynamicall
 
 DOM Map To better understand how DOM elements are interconnected in this project, refer to the following DOM map:
 
-image
+![image](https://github.com/HadarguetaTur/Guess-My-Number/assets/106341739/df6896f4-9c46-4e6a-b740-e09d0b813f45)
+
 
 Getting Started To run the "Guess My Number" game locally, follow these steps:
 
